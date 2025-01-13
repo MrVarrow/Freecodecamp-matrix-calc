@@ -9,3 +9,6 @@ def calculate(list):
 
 
     return calculations
+
+def calculate_mean(arr):
+    ...
